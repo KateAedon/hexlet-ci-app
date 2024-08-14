@@ -27,7 +27,7 @@ make test
 make lint
 ```
 
----
+[![ci](https://github.com/KateAedon/hexlet-ci-app/actions/workflows/ci.yaml/badge.svg)](https://github.com/KateAedon/hexlet-ci-app/actions/workflows/ci.yaml)
 
 [![Hexlet Ltd. logo](https://raw.githubusercontent.com/Hexlet/assets/master/images/hexlet_logo128.png)](https://hexlet.io/?utm_source=github&utm_medium=link&utm_campaign=hexlet-ci-app)
 
